@@ -1,4 +1,7 @@
-# test coverage for  [instagram-api (v1.0.3)](https://github.com/guilhermefarias/instagram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-instagram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-instagram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-instagram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-instagram-api)
+# npmtest-instagram-api
+
+#### test coverage for  [instagram-api (v1.0.3)](https://github.com/guilhermefarias/instagram-api)  [![npm package](https://img.shields.io/npm/v/npmtest-instagram-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-instagram-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-instagram-api.svg)](https://travis-ci.org/npmtest/node-npmtest-instagram-api)
+
 #### New Instagram API 2016 for Node.js
 
 [![NPM](https://nodei.co/npm/instagram-api.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/instagram-api)
